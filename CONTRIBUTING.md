@@ -1,6 +1,3 @@
-# Contributing
-
-Thank you for contributing to this project!
 
 ## Getting Started
 
@@ -54,5 +51,9 @@ When reporting bugs, please include:
 - Expected behavior
 - Actual behavior
 - Screenshots or logs if applicable
+- 
+# Contributing
+
+Thank you for contributing to this project!
 
 Thank you for helping improve this project!
